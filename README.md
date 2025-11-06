@@ -18,3 +18,5 @@ Get/Usuario /id (obtener ambos get, la lista de usuarios y el usuario x id) GET/
 Exportar reseñas de cada pelicula.
 actualizador de calificacion/estrellas en tiempo real, tipo que si una peli tiene 4,5,4 te de un promedio de todos los puntajes
 validacion del mail a la hora de registrarse,tanto a nivel sql como por ejemplo mandar un mail chequeandolo y confirmandolo
+
+(Chequear si se puede usar alguna api)
